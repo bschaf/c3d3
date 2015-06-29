@@ -1,0 +1,11 @@
+id,group,val
+IBM,subj,0.235
+CTSH,subj,0.355
+MSFT,core,0.455
+HPQ,core,0.353
+SYMC,core,0.265
+ORCL,core,0.103
+DOX,core,0.096
+ACN,extended,0.204
+CA,extended,0.189
+UIS,extended,0.156

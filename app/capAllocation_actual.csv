@@ -1,0 +1,19 @@
+category,group,val,units
+Best Buy,capex,741.9,Million
+Best Buy,repo,764.7,Million
+Best Buy,ma,293.8,Million
+Best Buy,dividends,215.9,Million
+Best Buy,cash,37,Million
+Best Buy,debt,0.1,Million
+Retail Industry,capex,39.6,Billion
+Retail Industry,repo,36.4,Billion
+Retail Industry,ma,56.3,Billion
+Retail Industry,dividends,15,Billion
+Retail Industry,cash,2.8,Billion
+Retail Industry,debt,0.1,Billion
+Market,capex,504.2,Billion
+Market,repo,345.6,Billion
+Market,ma,236.3,Billion
+Market,dividends,214.7,Billion
+Market,cash,55.7,Billion
+Market,debt,0.1,Billion
